@@ -1,11 +1,5 @@
-Account
-=======================
-Username : admin
-Password : admin
-
-Username : petugas
-Password : petugas
-
-Username : masyarakat
-Password : masyarakat
-=======================
+Judul : APLIKASI PENGADUAN MASYARAKAT
+Nama : Windi Nuraeni
+Kelas : XII rpl2
+Link   : 000pengaduanwindi.webhostapp.com
+Link    :https://github.com/wnuraeni123/UKK2023
